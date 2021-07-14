@@ -47,24 +47,4 @@ public class Q1 {
     }
 }
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-    ListNode(int[] head) {
-        ListNode h = null, p = null, q = null;
-        for (int a : head) {
-            if(a == head[0]) {
-                val = a;
-                next = null;
-                p = q = this;
-            }else{
-                q = new ListNode(a);
-                p.next = q;
-                p = q;
-            }
-        }
-    }
-}
+

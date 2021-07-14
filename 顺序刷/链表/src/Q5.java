@@ -7,4 +7,33 @@
  * 进阶：你能尝试使用一趟扫描实现吗？
  */
 public class Q5 {
+    public static void main(String[] args) {
+        int arr[] = {1,2,3,4,5};
+        int n = 2;
+
+        ListNode head = new ListNode(arr);
+        ListNode.linkPrint(head);
+        Solution solution = new Solution();
+        solution.removeNthFromEnd(head, n);
+        ListNode.linkPrint(head);
+    }
+
+     static class Solution {
+        public ListNode removeNthFromEnd(ListNode head, int n) {
+            ListNode p, q, h;
+            h = new ListNode(0, head);
+            q = h;
+            p = h.next;
+            int i = 0;
+            while(p != null) {
+                if(i >= n) {
+                    q = q.next;
+                }
+                p = p.next;
+                i++;
+            }
+            q.next = q.next.next;
+            return h.next;
+        }
+    }
 }
