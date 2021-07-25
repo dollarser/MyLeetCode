@@ -21,6 +21,18 @@ class ListNode {
         }
     }
 
+    static void cycle(ListNode h, int pos) {
+        ListNode p = h, q = null;
+        int i = 0;
+        while(p.next != null) {
+            p = p.next;
+            ++i;
+            if(i == pos) {
+                q = p;
+            }
+        }
+        p.next = q;
+    }
     static void linkPrint(ListNode p) {
         int len = 0;
         while(p != null){
