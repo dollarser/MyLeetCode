@@ -46,11 +46,13 @@ public class Q1 {
         }
 
         /** Push element x to the back of queue. */
+        //入栈和入队没区别
         public void push(int x) {
             stIn.push(x);
         }
 
         /** Removes the element from in front of queue and returns that element. */
+        //出队需要把栈颠倒，但不用每次都进行，如果之前颠倒的还不为空就不用
         public int pop() {
             // 只要 stOut 为空，那么就应该将 stIn 中所有的元素倒腾到 stOut 中
             if (stOut.isEmpty()) {
@@ -63,6 +65,7 @@ public class Q1 {
         }
 
         /** Get the front element. */
+        //使用已经实现的方法查看第一个元素
         public int peek() {
             // 直接使用已有的pop函数
             int res = this.pop();
