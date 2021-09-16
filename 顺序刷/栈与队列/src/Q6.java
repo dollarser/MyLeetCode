@@ -1,7 +1,5 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * 239. 滑动窗口最大值
