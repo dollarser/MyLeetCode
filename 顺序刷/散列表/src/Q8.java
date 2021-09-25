@@ -51,9 +51,9 @@ public class Q8 {
                             temp.add(nums[k]);
                             temp.add(nums[l]);
                             ans.add(temp);
+                            //去重
                             k++;
                             l--;
-                            //去重
                             while(k < l && nums[k] == nums[k-1]) k++;
                             while(k < l && nums[l] == nums[l+1]) l--;
                         }
