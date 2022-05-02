@@ -3,6 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
+ * 二叉树层序遍历登场！
  * 637.二叉树的层平均值
  * 题目链接：https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/
  *

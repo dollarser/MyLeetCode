@@ -24,12 +24,12 @@ public class Q1 {
     public static void main(String[] args) {
         int nums[] = {-1,0,3,5,9,12}, target = 9;
         //为什么用内部类？因为全类名不能重复，每题都有一个Solution类会报错
-        Solution solution = new Q1().new Solution();
+        Solution solution = new Solution();
         int ans = solution.search(nums, target);
         System.out.println(ans);
     }
 
-    class Solution {
+    static class Solution {
         public int search(int[] nums, int target) {
             int low = 0, high = nums.length, mid = 0;
             while(low<high) {

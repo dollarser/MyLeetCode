@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q1_p509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q2_p70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q3_p746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/数组/src/Q1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\sun_app\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21OrRYuucI9RtRYyUsZjcJc16vM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive - stu.ahu.edu.cn\Code\LeetCode\顺序刷" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Q4_p62">
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q10" />
+      <module name="二叉树" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q11" />
+      <module name="二叉树" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_p509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_p509" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3_p746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_p746" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4_p62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4_p62" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q4_p62" />
+        <item itemvalue="Application.Q3_p746" />
+        <item itemvalue="Application.Q1_p509" />
+        <item itemvalue="Application.Q10" />
+        <item itemvalue="Application.Q11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="" />
+      <created>1637822974652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637822974652</updated>
+      <workItem from="1637822979892" duration="44000" />
+      <workItem from="1638422550730" duration="6958000" />
+      <workItem from="1650522323152" duration="1240000" />
+      <workItem from="1651232123751" duration="10383000" />
+      <workItem from="1651421500641" duration="4754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

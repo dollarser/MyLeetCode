@@ -2,11 +2,15 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 二叉树
+ */
 public class TreeNode {
     int val;
-
     TreeNode left;
     TreeNode right;
+    TreeNode next;
+
     TreeNode() {}
     TreeNode(int val) {
         this.val = val;
