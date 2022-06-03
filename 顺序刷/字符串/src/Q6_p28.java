@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 /**
  * 28. 实现 strStr()
  * https://leetcode-cn.com/problems/implement-strstr/
@@ -14,7 +12,7 @@ import java.util.ArrayList;
  *
  * 说明: 当 needle 是空字符串时，我们应当返回什么值呢？这是一个在面试中很好的问题。 对于本题而言，当 needle 是空字符串时我们应当返回 0 。这与C语言的 strstr() 以及 Java的 indexOf() 定义相符。
  */
-public class Q6 {
+public class Q6_p28 {
     public static void main(String[] args) {
         String haystack = "mississippi", needle = "issip";
         Solution solution = new Solution();
@@ -47,7 +45,7 @@ public class Q6 {
             return -1;
         }
 
-        //前缀表
+        //前缀表（右移一位，初为补-1）
         int[] getNext(String s){
             /**
              * ArrayList<Integer> next = new ArrayList(s.length());
@@ -66,6 +64,8 @@ public class Q6 {
              */
 
             int[] next = new int[s.length()];
+            //双指针法
+            // j指向前缀末尾位置，i指向后缀末尾，j的含义是最长前后缀相等的长度
             int j = -1;
             int i = 0;
             next[0] = -1;
@@ -80,5 +80,6 @@ public class Q6 {
             }
             return next;
         }
+
     }
 }

@@ -18,7 +18,7 @@
  * 输出: True
  * 解释: 可由子字符串 "abc" 重复四次构成。 (或者子字符串 "abcabc" 重复两次构成。)
  */
-public class Q7 {
+public class Q7_p459 {
     public static void main(String[] args) {
         //String s = "abac";
         String s = "abacababacab";

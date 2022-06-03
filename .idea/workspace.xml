@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q1_p509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q2_p70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q3_p746.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/二叉树/src/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/数组/src/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q6_p343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q7_p96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q8_p416.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,35 +49,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot/code/emos-wx-api" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\OneDrive - stu.ahu.edu.cn\Code\LeetCode\顺序刷" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q4_p62">
-    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q10" />
-      <module name="二叉树" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q11" />
-      <module name="二叉树" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1_p509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1_p509" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q7_p96">
     <configuration name="Q3_p746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3_p746" />
       <module name="LeetCode" />
@@ -106,13 +71,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q5_p63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q5_p63" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6_p343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q6_p343" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q7_p96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q7_p96" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q7_p96" />
+        <item itemvalue="Application.Q6_p343" />
+        <item itemvalue="Application.Q5_p63" />
         <item itemvalue="Application.Q4_p62" />
         <item itemvalue="Application.Q3_p746" />
-        <item itemvalue="Application.Q1_p509" />
-        <item itemvalue="Application.Q10" />
-        <item itemvalue="Application.Q11" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +115,10 @@
       <workItem from="1650522323152" duration="1240000" />
       <workItem from="1651232123751" duration="10383000" />
       <workItem from="1651421500641" duration="4754000" />
+      <workItem from="1651482531481" duration="1160000" />
+      <workItem from="1651498923140" duration="6291000" />
+      <workItem from="1651770883095" duration="2515000" />
+      <workItem from="1651989491148" duration="1055000" />
     </task>
     <servers />
   </component>
