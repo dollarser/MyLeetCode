@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/顺序刷/数组/数组.iml" filepath="$PROJECT_DIR$/顺序刷/数组/数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/顺序刷/栈与队列/栈与队列.iml" filepath="$PROJECT_DIR$/顺序刷/栈与队列/栈与队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/顺序刷/链表/链表.iml" filepath="$PROJECT_DIR$/顺序刷/链表/链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/顺序刷/回溯/回溯.iml" filepath="$PROJECT_DIR$/顺序刷/回溯/回溯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/顺序刷/贪心/贪心.iml" filepath="$PROJECT_DIR$/顺序刷/贪心/贪心.iml" />
+      <module fileurl="file://$PROJECT_DIR$/顺序刷/排序/排序.iml" filepath="$PROJECT_DIR$/顺序刷/排序/排序.iml" />
     </modules>
   </component>
 </project>

@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q6_p343.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q7_p96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q8_p416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q1_p455.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p378.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p378_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q3_53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot/code/emos-wx-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -119,6 +119,8 @@
       <workItem from="1651498923140" duration="6291000" />
       <workItem from="1651770883095" duration="2515000" />
       <workItem from="1651989491148" duration="1055000" />
+      <workItem from="1654836625090" duration="151000" />
+      <workItem from="1654836946478" duration="894000" />
     </task>
     <servers />
   </component>
