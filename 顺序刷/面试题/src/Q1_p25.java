@@ -55,7 +55,7 @@ public class Q1_p25 {
             }
             return h.next;
         }
-        
+
         public ListNode reverse(ListNode head) {
             ListNode h = null;
             ListNode p = head;
