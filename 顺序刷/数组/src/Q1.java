@@ -33,7 +33,7 @@ public class Q1 {
         public int search(int[] nums, int target) {
             int low = 0, high = nums.length, mid = 0;
             while(low<high) {
-                mid = (low+high)/2;
+                mid = (low + high) >> 1;
                 if(target < nums[mid]) {
                     high = mid;
                 }
