@@ -1,4 +1,6 @@
+import java.util.ArrayDeque;
 import java.util.ArrayList;
+import java.util.Deque;
 import java.util.List;
 
 /**
@@ -25,6 +27,30 @@ public class Q2 {
             inorder(ans, root.left);
             ans.add(root.val);
             inorder(ans, root.right);
+        }
+
+        public List<Integer> inorderTraversal2(TreeNode root) {
+            List<Integer> ans = new ArrayList<>();
+            //改进中序遍历
+            Deque<TreeNode> deque = new ArrayDeque<>();
+            TreeNode p = root;
+            while(p!=null) {
+                deque.addLast(p);
+                p = p.left;
+            }
+            while(!deque.isEmpty()) {
+                // 弹出要遍历的节点
+                p = deque.pollLast();
+                ans.add(p.val);
+                if (p.right != null) {
+                    p = p.right;
+                    while (p != null) {
+                        deque.addLast(p);
+                        p = p.left;
+                    }
+                }
+            }
+            return ans;
         }
     }
 }

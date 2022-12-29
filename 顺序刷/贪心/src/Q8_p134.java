@@ -51,40 +51,39 @@ public class Q8_p134 {
     //只要跑完全程结尾的一站一定是代价与油量差值最大的站
     static class Solution {
         public int canCompleteCircuit(int[] gas, int[] cost) {
-            int len = gas.length;
-            int spare = 0;
-            int minSpare = Integer.MAX_VALUE;
+            int sum = 0;
+            int minSum = Integer.MAX_VALUE;
             int minIndex = 0;
+            int ans = -1;
 
-            for (int i = 0; i < len; i++) {
-                spare += gas[i] - cost[i];
-                if (spare < minSpare) {
-                    minSpare = spare;
+            for (int i = 0; i < gas.length; i++) {
+                sum += gas[i] - cost[i];
+                if (sum < minSum) {
+                    minSum = sum;
                     minIndex = i;
                 }
             }
-
-            return spare < 0 ? -1 : (minIndex + 1) % len;
+            if(sum>=0) ans = (minIndex + 1) % gas.length;
+            return ans;
         }
     }
 
     /**
      * 如果x到不了y+1（但能到y），那么从x到y的任一点出发都不可能到达y+1。
-     * 因为从其中任一点出发的话，相当于从0开始加油，而如果从x出发到该点则不一定是从0开始加油，
-     * 可能还有剩余的油。既然不从0开始都到不了y+1，那么从0开始就更不可能到达y+1了...
+     * 因为从其中任一点x'出发的时，油箱是从0开始加油，而从x出发到达x'时油箱中的油不会只会多余等于0。
+     * 既然从油量大于等于0开始都到不了y+1，那么从0开始就更不可能到达y+1了...
      */
     class Solution1 {
         public int canCompleteCircuit(int[] gas, int[] cost) {
             int n = gas.length;
             int i = 0;
             while (i < n) {
-                int sumOfGas = 0, sumOfCost = 0;
+                int restSum=0;
                 int cnt = 0;
                 while (cnt < n) {
                     int j = (i + cnt) % n;
-                    sumOfGas += gas[j];
-                    sumOfCost += cost[j];
-                    if (sumOfCost > sumOfGas) {
+                    restSum += gas[j]-cost[j];
+                    if (restSum<0) {
                         break;
                     }
                     cnt++;
@@ -104,18 +103,14 @@ public class Q8_p134 {
         public int canCompleteCircuit(int[] gas, int[] cost) {
             int ans=-1;
             for (int i = 0; i < gas.length; i++) {
-                int num=0;
-                int k = i;
-                for (int j = 0; j < gas.length; j++) {
-                    num += gas[k] - cost[k];
-                    k = (k+1) % gas.length;
-                    if (num < 0) {
-                        k = -1; //做标志位
-                        break;
-                    }
+                int rest = gas[i]-cost[i];
+                int index = (i+1)%gas.length;
+                while(rest>=0 && index!=i) {
+                    rest += gas[index]-cost[index];
+                    index = (index+1)%gas.length;
                 }
-                if (k==i) {
-                    ans = i;
+                if(rest>=0 && index==i) {
+                    ans=i;
                     break;
                 }
             }

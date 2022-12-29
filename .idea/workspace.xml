@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="">
+    <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="Default Changelist">
       <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q1_p455.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p378.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p378_1.java" afterDir="false" />
@@ -56,7 +56,7 @@
       <recent name="D:\OneDrive - stu.ahu.edu.cn\Code\LeetCode\顺序刷" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q7_p96">
+  <component name="RunManager" selected="应用程序.Q3_p746">
     <configuration name="Q3_p746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3_p746" />
       <module name="LeetCode" />
@@ -92,15 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Q7_p96" />
-        <item itemvalue="Application.Q6_p343" />
-        <item itemvalue="Application.Q5_p63" />
-        <item itemvalue="Application.Q4_p62" />
-        <item itemvalue="Application.Q3_p746" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -121,6 +112,8 @@
       <workItem from="1651989491148" duration="1055000" />
       <workItem from="1654836625090" duration="151000" />
       <workItem from="1654836946478" duration="894000" />
+      <workItem from="1666981487849" duration="777000" />
+      <workItem from="1668217524196" duration="620000" />
     </task>
     <servers />
   </component>
