@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q1_p455.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p378.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p378_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q3_53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/单调栈/src/Q1_p739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q17_p714_H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/面试题/src/LC_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/顺序刷/面试题/src/LC_75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q16_p738_T.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q16_p738_H.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q17_p714.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q9_p135_T.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q9_p135_H.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -44,43 +50,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive - stu.ahu.edu.cn/Code/LeetCode/顺序刷&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\OneDrive - stu.ahu.edu.cn\Code\LeetCode\顺序刷" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Q3_p746">
-    <configuration name="Q3_p746" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_p746" />
+  <component name="RunManager" selected="Application.Q1_p739">
+    <configuration name="Q1_p509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_p509" />
+      <module name="动态规划" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_p739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1_p739" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_p62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q4_p62" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q5_p63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q5_p63" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q6_p343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q6_p343" />
-      <module name="LeetCode" />
+    <configuration name="Q2_p70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_p70" />
+      <module name="动态规划" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,6 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Q1_p509" />
+      <item itemvalue="Application.Q2_p70" />
+      <item itemvalue="Application.Q1_p739" />
+      <item itemvalue="Application.Q7_p96" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q1_p739" />
+        <item itemvalue="Application.Q2_p70" />
+        <item itemvalue="Application.Q1_p509" />
+        <item itemvalue="Application.Q1_p739" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,6 +131,8 @@
       <workItem from="1654836946478" duration="894000" />
       <workItem from="1666981487849" duration="777000" />
       <workItem from="1668217524196" duration="620000" />
+      <workItem from="1698212590572" duration="188000" />
+      <workItem from="1698212950838" duration="2994000" />
     </task>
     <servers />
   </component>
@@ -130,6 +149,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
