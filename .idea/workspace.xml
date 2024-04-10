@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/顺序刷/单调栈/src/Q1_p739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q17_p714_H.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/面试题/src/LC_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/顺序刷/面试题/src/LC_75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q16_p738_T.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q16_p738_H.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q17_p714.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q9_p135_T.java" beforeDir="false" afterPath="$PROJECT_DIR$/顺序刷/贪心/src/Q9_p135_H.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive - stu.ahu.edu.cn/Code/LeetCode/顺序刷&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\OneDrive - stu.ahu.edu.cn\Code\LeetCode\顺序刷" />
@@ -133,6 +125,7 @@
       <workItem from="1668217524196" duration="620000" />
       <workItem from="1698212590572" duration="188000" />
       <workItem from="1698212950838" duration="2994000" />
+      <workItem from="1712048510507" duration="1382000" />
     </task>
     <servers />
   </component>
@@ -149,5 +142,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
