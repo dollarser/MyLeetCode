@@ -36,6 +36,8 @@ class Solution:
     # 需要几次遍历能遍历完所有点就有多少岛屿
     def __init__(self):
         self.visited = []
+        # 重点，提供了List将多种情况统一
+        self.dir = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
     def numIslands(self, grid: List[List[str]]) -> int:
         self.visited = [[0 for i in grid[0] ] for j in grid]
@@ -45,34 +47,30 @@ class Solution:
                 if grid[i][j] == '1' and self.visited[i][j] != 1:
                     self.dfs(grid, i, j)
                     cnt += 1
+                else:
+                    self.visited[i][j] = 1
         return cnt
         
 
     def dfs(self, grid, row, hoc):
-        if self.visited[row][hoc] == 1:
-            return
-        
-        self.visited[row][hoc] == 1
-        if row > 0 and \
-            grid[row-1][hoc] == '1':
-            self.dfs(grid, row-1, hoc)
-        
-        if row < len(grid)-1 and grid[row+1][hoc] == '1':
-             self.dfs(grid, row+1, hoc)
-        
-        if hoc > 0 and grid[row][hoc - 1] == '1':
-            self.dfs(grid, row, hoc-1)
-
-        if hoc < len(grid[0])-1 and grid[row][hoc+1] == '1':
-             self.dfs(grid, row, hoc + 1)
+        for x, y in self.dir:
+            nextx = x + row
+            nexty = y + hoc
+            # 临界值判断
+            if nextx < 0 or nextx > len(grid) - 1 or nexty < 0 or nexty > len(grid[0]) - 1:
+                continue
+            # 条件作为终止条件
+            if self.visited[nextx][nexty] == 0 and grid[nextx][nexty] == '1':
+                self.visited[nextx][nexty] = 1
+                self.dfs(grid, nextx, nexty)
 
             
 if __name__ == "__main__":
     grid = [
-        ["1","1","1","1","0"],
-        ["1","1","0","1","0"],
         ["1","1","0","0","0"],
-        ["0","0","0","0","0"]
+        ["1","1","0","0","0"],
+        ["0","0","1","0","0"],
+        ["0","0","0","1","1"]
     ]
     s = Solution()
     ans = s.numIslands(grid)
