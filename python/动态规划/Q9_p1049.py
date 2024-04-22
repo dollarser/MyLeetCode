@@ -50,10 +50,8 @@ class Solution:
                 else:
                     dp[i][j] = max(dp[i-1][j], dp[i-1][j-stones[i]] + stones[i])
         m = dp[-1][-1]
-        if _sum - 2* m == 0:
-            return 0
-        else:
-            return [_sum - 2* m]
+
+        return _sum - 2 * m
         
 if __name__ == "__main__":
     s = Solution()
