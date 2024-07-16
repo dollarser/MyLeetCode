@@ -31,7 +31,7 @@ import java.util.LinkedList;
  *    /\/\  /\
  *  \/    \/  \/\___/
  */
-public class Q2_p378 {
+public class Q2_p376 {
     public static void main(String[] args) {
         int[] nums = {1,7,4,9,2,5};
 
