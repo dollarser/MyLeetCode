@@ -2,146 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ddd149c-71f0-4971-82dc-5ad04c3b245d" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/Q9_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/TraversalExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/二叉树/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q1_p509.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q2_p70.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q3_p746.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q4_p62.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q5_p63.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q6_p343.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q7_p96.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/Q8_p416.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/T0_p647.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/T1_p5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/T2_p673.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/动态规划/src/T3_p72.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/单调栈/src/Q1_p739.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/单调栈/src/Q2_p496.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/单调栈/src/Q3_p503.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/Q4_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/双指针法/src/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q10_p491.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q11_p46.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q12_p47.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q13_p332.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q13_p332_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q14_p51.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q15_p37.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q1_p77.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q1_p77_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q2_p216.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q3_p17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q4_p39.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q5_p40.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q6_p131.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q7_p93.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q8_p78.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/回溯/src/Q9_p90.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/字符串/src/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/字符串/src/Q6_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/字符串/src/Q6_p28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/字符串/src/Q7_p459.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/排序/src/堆排序.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/排序/src/归并排序.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/排序/src/快排.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q6_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q6_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q6_unity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q6_unity2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/散列表/src/Q8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q3_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/数组/src/Q4_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q6_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/栈与队列/src/Q7_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q10_p860.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q11_p406.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q12_p452.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q13_p435.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q14_p763.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q15_p56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q16_p738_H.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q17_p714_H.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q1_p455.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p376.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q2_p376_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q3_53.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q4_p122.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q5_p55.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q6_p56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q7_p1005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q8_p134.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/贪心/src/Q9_p135_H.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q2_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q4_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/Q7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/链表/src/T1_p25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/LC_22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/LC_75.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/Q1_p25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/Q2_findPattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/华为_士兵的任务2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/华为_字符串.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/顺序刷/面试题/src/华为_高速公路休息站充电规划.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/贪心/src/Q2_p376.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/贪心/src/Q2_p376.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA/贪心/src/Q2_p376_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA/贪心/src/Q2_p376_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +58,7 @@
       <recent name="D:\OneDrive - stu.ahu.edu.cn\Code\LeetCode\顺序刷" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1_p739">
+  <component name="RunManager" selected="应用程序.Q1_p509">
     <configuration name="Q1_p509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q1_p509" />
       <module name="动态规划" />
@@ -225,19 +88,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q1_p509" />
-      <item itemvalue="Application.Q2_p70" />
-      <item itemvalue="Application.Q1_p739" />
-      <item itemvalue="Application.Q7_p96" />
+      <item itemvalue="应用程序.Q1_p509" />
+      <item itemvalue="应用程序.Q1_p739" />
+      <item itemvalue="应用程序.Q2_p70" />
+      <item itemvalue="应用程序.Q7_p96" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Q1_p739" />
-        <item itemvalue="Application.Q2_p70" />
-        <item itemvalue="Application.Q1_p509" />
-        <item itemvalue="Application.Q1_p739" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -264,6 +119,8 @@
       <workItem from="1698212950838" duration="2994000" />
       <workItem from="1712048510507" duration="1382000" />
       <workItem from="1713860211351" duration="230000" />
+      <workItem from="1721141138393" duration="58000" />
+      <workItem from="1721141208417" duration="1234000" />
     </task>
     <servers />
   </component>
